@@ -9,4 +9,3 @@ $(document).ready(function() {
   //   $spinner.fadeOut();
   //   $preloader.delay(350).fadeOut('slow');
 });
-});
