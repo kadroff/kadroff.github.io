@@ -1,0 +1,45 @@
+body {
+  font-family: "VT323", monospace;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-top: 40px;
+}
+
+.hello_main {
+  color: black;
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 600;
+}
+
+.about_me {
+}
+
+.about_title {
+  color: black;
+  font-size: 24px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.projects_title {
+  color: black;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  padding-top: 5px;
+}
