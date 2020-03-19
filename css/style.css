@@ -7,7 +7,6 @@ body {
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
-  padding-top: 40px;
 }
 
 .hello_main {
@@ -15,9 +14,6 @@ body {
   font-size: 24px;
   line-height: 40px;
   font-weight: 600;
-}
-
-.about_me {
 }
 
 .about_title {
